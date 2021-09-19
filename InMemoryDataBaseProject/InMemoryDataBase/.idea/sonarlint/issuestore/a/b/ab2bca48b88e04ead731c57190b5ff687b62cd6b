@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì›€Ÿúÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ôå?
+@
+java:S5411"*Use the primitive boolean expression here.(‚ñ‘Õ
+@
+java:S5411"*Use the primitive boolean expression here.(áƒÌ¨
+w
+java:S3008"\Rename this field "ClientCommunicate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒøÇŠüÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Õ°è

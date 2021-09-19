@@ -1,0 +1,27 @@
+
+P
+java:S1141E"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åñ‘Şùÿÿÿÿ
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÕïÛ
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÕïÛ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÃŒ·
+n	java:S116"YRename this field "ServerServices" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»«š÷
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãó§
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ïúŒşÿÿÿÿ
+E
+java:S6212+"/Declare this local variable with "var" instead.(ñîøë
+J
+java:S62129"/Declare this local variable with "var" instead.(øÄéÿÿÿÿÿ
+J
+java:S6212H"/Declare this local variable with "var" instead.(Ï¾Éùÿÿÿÿ
+J
+java:S6212X"/Declare this local variable with "var" instead.(øÄéÿÿÿÿÿ
+E
+java:S6212Y"/Declare this local variable with "var" instead.(ÕÕïÛ
+E
+java:S6212f"/Declare this local variable with "var" instead.(ÕÕïÛ
+E
+java:S6212g"/Declare this local variable with "var" instead.(ÅàæŠ
+E
+java:S6212t"/Declare this local variable with "var" instead.(ñîøë
+W	java:S125†"<This block of commented-out lines of code should be removed.(ÖïÆÿıÿÿÿÿ

@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÃŒ·
+S
+java:S1128"6Remove this unused import 'java.io.ObjectInputStream'.(Éæéœ8Â„¼“®/
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8Â„¼“®/
+\
+java:S1161":Add the "@Override" annotation above this method signature(ê›Ââüÿÿÿÿ8Ëª”®/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜é¾øÿÿÿÿ
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(Äòù8Ëª”®/

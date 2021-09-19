@@ -1,0 +1,45 @@
+
+b
+java:S2095B"GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ
+b
+java:S2095."GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ
+b
+java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ
+c
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ι°Αµώÿÿÿÿ
+E
+java:S1066k"/Merge this if statement with the enclosing one.(¤όβ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό°«M
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‡Ωύÿÿÿÿÿ
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―ό–βώÿÿÿÿ
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜΨίχ
+f	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‡θ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έσϋΙϊÿÿÿÿ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰κνωÿÿÿÿ
+k	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Θ®Ό±ωÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ®·
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(΄Γ·
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ό°«M
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρΣ»
+J
+java:S6212"/Declare this local variable with "var" instead.(ι°Αµώÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―ό–βώÿÿÿÿ
+J
+java:S6212."/Declare this local variable with "var" instead.(ι°Αµώÿÿÿÿ
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‡θ
+J
+java:S6212B"/Declare this local variable with "var" instead.(ι°Αµώÿÿÿÿ
+E
+java:S6212D"/Declare this local variable with "var" instead.(Χϊ½α
+h	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰κνωÿÿÿÿ
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·³νή
+J
+java:S6212e"/Declare this local variable with "var" instead.(ι°Αµώÿÿÿÿ
+E
+java:S6212g"/Declare this local variable with "var" instead.(Χϊ½α
+h	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ε‘§ώÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(ι°Αµώÿÿÿÿ

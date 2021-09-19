@@ -1,0 +1,29 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "STUDENT:" 7 times.(§õ‹Çùÿÿÿÿ
+f
+java:S11927"KDefine a constant instead of duplicating this literal "          " 4 times.(Ò…”¼ûÿÿÿÿ
+\
+java:S1192H"FDefine a constant instead of duplicating this literal "USER:" 3 times.(ÎÛÅå
+J
+java:S1066M"/Merge this if statement with the enclosing one.(ÍêÈ±ÿÿÿÿÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ååÇ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓùÜíÿÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²ÂÙıÿÿÿÿ
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŞéğıÿÿÿÿ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛÅå
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÃŒ·
+E
+java:S5411"*Use the primitive boolean expression here.(šĞæşÿÿÿÿ
+o
+java:S1450"YRemove the "poolConfig" field and declare it as a local variable in the relevant methods.(€Æï€
+n
+java:S3008"SRename this field "Instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÉ¦·üÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ú ±
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ååÇ
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓùÜíÿÿÿÿÿ
+J
+java:S62121"/Declare this local variable with "var" instead.(÷„îøÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŞéğıÿÿÿÿ
+h	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÚÁÜüÿÿÿÿ
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¬Á§ıÿÿÿÿ

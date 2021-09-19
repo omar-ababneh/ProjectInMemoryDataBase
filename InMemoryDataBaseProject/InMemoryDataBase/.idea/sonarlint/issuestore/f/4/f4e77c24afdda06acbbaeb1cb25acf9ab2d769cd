@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÃŒ·
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8¼ÁîÅ®/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÍÊó8Ö§äÃ­/
+Q
+java:S6212	"/Declare this local variable with "var" instead.(Œ“¤àùÿÿÿÿ8Ö§äÃ­/

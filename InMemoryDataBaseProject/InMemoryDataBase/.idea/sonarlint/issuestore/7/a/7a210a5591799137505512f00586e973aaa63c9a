@@ -1,0 +1,32 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êğîƒ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒæñóşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÀÍÓşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÇÜ£
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼†èúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êğîƒ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àğ¶¹
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äò«ª
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êíˆ©üÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‡¦üÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í°üŒ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ôå?
+w
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "StudentId".(Êğîƒ
+}
+java:S1488!"gImmediately return this expression instead of assigning it to the temporary variable "OperationNumber".(àğ¶¹
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³Ç
+E
+java:S6212"/Declare this local variable with "var" instead.(Êğîƒ
+J
+java:S6212"/Declare this local variable with "var" instead.(¼†èúÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÓÄr
+E
+java:S6212"/Declare this local variable with "var" instead.(Êğîƒ
+E
+java:S6212!"/Declare this local variable with "var" instead.(àğ¶¹
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŸ¡Ëúÿÿÿÿ
+E
+java:S6212%"/Declare this local variable with "var" instead.(Äò«ª
+E
+java:S6212,"/Declare this local variable with "var" instead.(Í°üŒ

@@ -1,0 +1,17 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«Èù
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú—­ûûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÃŒ·
+@
+java:S5411("*Use the primitive boolean expression here.(ß˜Ù‡
+@
+java:S54112"*Use the primitive boolean expression here.(†Öé‰
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÉÜ¾
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«Èù
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú—­ûûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›½
+J
+java:S6212"/Declare this local variable with "var" instead.(ƒ±¤ÿÿÿÿÿ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¤Ä
+b	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§®µ
